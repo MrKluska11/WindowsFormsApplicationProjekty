@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\bin\Debug\bankSystem.exe.config
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\bin\Debug\bankSystem.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\bin\Debug\bankSystem.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.Form1.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.progressBar.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.Main.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.AccountCreation.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.Deposit.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.Withdrew.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\bankSystem\bankSystem\obj\Debug\bankSystem.Transfer.resources

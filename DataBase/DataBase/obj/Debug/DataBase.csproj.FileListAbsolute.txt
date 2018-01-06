@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Lenovo\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\Lenovo\Desktop\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Lenovo\Desktop\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\Lenovo\Desktop\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\Lenovo\Desktop\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache

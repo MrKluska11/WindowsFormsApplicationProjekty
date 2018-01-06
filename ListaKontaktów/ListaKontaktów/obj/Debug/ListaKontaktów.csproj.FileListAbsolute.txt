@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\bin\Debug\ListaKontaktów.exe.config
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\bin\Debug\ListaKontaktów.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\bin\Debug\ListaKontaktów.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\obj\Debug\ListaKontaktów.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\obj\Debug\ListaKontaktów.Form1.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\obj\Debug\ListaKontaktów.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\obj\Debug\ListaKontaktów.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\obj\Debug\ListaKontaktów.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\ListaKontaktów\ListaKontaktów\obj\Debug\ListaKontaktów.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Lenovo\Desktop\Staż DOZ.SA\programowanie komputerów II\Windows Forms Application projekty\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
